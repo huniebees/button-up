@@ -1,0 +1,29 @@
+.S {
+    color: rgb(49, 206, 159);
+    border: 2px solid rgb(49, 206, 159);
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    font-weight: 700;
+    margin: 0.6%;
+    border-radius: 25px;
+}
+.P {
+    color: white;
+    background-color: rgb(49, 206, 159);
+    height: 35px;
+    width: 35px;
+    margin: 0.6%;
+    border: none;
+    border-radius: 50%;
+    font-size: larger;
+}
+.C {
+    color: white;
+    background-color: rgb(66, 120, 255);
+    height: 30px;
+    width: 180px;
+    font-weight: 700;
+    margin: 0.6%;
+    box-shadow: 3px 3px 3px rgb(60, 60, 60)
+}
